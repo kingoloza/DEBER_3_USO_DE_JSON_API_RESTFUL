@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DEBER_3_USO_DE_JSON_API_RESTFUL_CON_PARÁMETROS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.DEBER_3_USO_DE_JSON_API_RESTFUL_CON_PARÁMETROS" parent="Base.Theme.DEBER_3_USO_DE_JSON_API_RESTFUL_CON_PARÁMETROS" />
+</resources>
